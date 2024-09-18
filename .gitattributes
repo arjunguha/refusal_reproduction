@@ -1,0 +1,4 @@
+datasets/MaliciousInstruct.txt filter=lfs diff=lfs merge=lfs -text
+datasets/alpaca_data.json filter=lfs diff=lfs merge=lfs -text
+datasets/harmful.jsonl filter=lfs diff=lfs merge=lfs -text
+datasets/helpful.jsonl filter=lfs diff=lfs merge=lfs -text
